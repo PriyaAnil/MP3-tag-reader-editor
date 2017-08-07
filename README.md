@@ -20,3 +20,6 @@ Step 5: Get tag content size and store it (4 bytes)
 Step 6: Read new content/art file of tag upto tag size
 Step 7: Write the content to mp3 file
 Step 8: Stop
+
+Usage : gcc read.c edit.c main.c
+        ./a.out
